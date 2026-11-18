@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "基于 Wails v3 + Vite Plus 的桌面应用模板，Go 单进程承载 WebView。",
-  "homepage": "https://github.com/Rouarn/Wails3Template",
+  "homepage": "https://github.com/Rouarn/wails-template",
   "license": "UNLICENSED",
   "author": {
     "name": "woyuxiaji",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rouarn/Wails3Template.git"
+    "url": "https://github.com/Rouarn/wails-template.git"
   },
   "type": "module",
   "scripts": {
